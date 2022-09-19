@@ -10,5 +10,9 @@ public class Operators
         System.out.print(i);
         System.out.print(f);
         System.out.print(flag);
+    String string1 = "I am a string";
+    String string2;
+    string1.equals(string2);
+    
     }
 }
