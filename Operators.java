@@ -4,12 +4,11 @@ public class Operators
     {
     int i = 10;
     int f = 5;
-    f += i = f;
     boolean flag = true;
     flag = !flag;
-    while (i>20) {
-        System.out.println(i++);
+    i++;
+        System.out.print(i);
+        System.out.print(f);
+        System.out.print(flag);
     }
-    System.out.print(i);
-{
-    System.out.print
+}
