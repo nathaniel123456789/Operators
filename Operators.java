@@ -12,6 +12,7 @@ public class Operators
         System.out.print(flag);
     String string1 = "I am a string";
     String string2 = string1;
-    
+    String string3 = "I am also a string";
+    boolean stringsequal = string1.equals(string3);
     }
 }
