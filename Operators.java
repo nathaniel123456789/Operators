@@ -14,5 +14,7 @@ public class Operators
     String string2 = string1;
     String string3 = "I am also a string";
     boolean stringsequal = string1.equals(string3);
+    String[] = {"Alpha","Bravo","Charlie","Delta","Echo"}
+    int 
     }
 }
